@@ -35,3 +35,5 @@ elif op == 0:
  
 else:
     print("Opção inválida")
+
+menu() 
