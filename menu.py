@@ -15,3 +15,8 @@ if op == 1:
     n2 = float(input("Número 2: "))
     print(n1 + n2)
  
+elif op == 2:
+    n1 = float(input("Número 1: "))
+    n2 = float(input("Número 2: "))
+    print(n1 - n2)
+ 
