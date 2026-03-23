@@ -29,3 +29,9 @@ elif op == 4:
     n1 = float(input("Número 1: "))
     n2 = float(input("Número 2: "))
     print(n1 / n2)
+
+elif op == 0:
+    print("Saiu")
+ 
+else:
+    print("Opção inválida")
